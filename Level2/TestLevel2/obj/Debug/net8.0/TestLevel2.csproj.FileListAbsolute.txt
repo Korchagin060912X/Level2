@@ -1,0 +1,14 @@
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\bin\Debug\net8.0\TestLevel2.exe
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\bin\Debug\net8.0\TestLevel2.deps.json
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\bin\Debug\net8.0\TestLevel2.runtimeconfig.json
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\bin\Debug\net8.0\TestLevel2.dll
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\bin\Debug\net8.0\TestLevel2.pdb
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.AssemblyInfo.cs
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.dll
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\refint\TestLevel2.dll
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.pdb
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\TestLevel2.genruntimeconfig.cache
+C:\Users\Artem\Desktop\Level2-main\Level2-main\Level2\TestLevel2\obj\Debug\net8.0\ref\TestLevel2.dll
